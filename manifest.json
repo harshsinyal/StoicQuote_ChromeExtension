@@ -1,0 +1,16 @@
+{
+    "name": "Stoic quotes",
+    "description": "Your daily dose of Seneca and Marcus Aerulius Quotes are here. Increase your focus, will and intellect with these stoics.",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "motivation.html",
+        "default_icon": "julius.png"
+    },
+    "icons": {
+        "1280": "julius.png"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}

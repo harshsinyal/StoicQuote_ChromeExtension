@@ -1,0 +1,16 @@
+body {
+    width: 400px;
+    height: 225px;
+    background-color:aliceblue;
+    background-image: url("marcusbg.png");
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    position: relative;
+    text-align: centre;
+    color:ivory;
+    font-size: 15px;
+}
+
